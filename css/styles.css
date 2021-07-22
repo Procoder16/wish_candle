@@ -237,8 +237,14 @@ h1 {
   opacity: 0.6;
 }
 
-.to-wish{
-  position: absolute;
-  top: 50%;
-  left: 85%;
+.entry{
+  background-color: #000211;
+  height: 100%;
+  width: 100%;
+}
+
+*{margin: 0;}
+
+body,html{
+  height: 100%;
 }
