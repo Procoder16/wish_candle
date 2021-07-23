@@ -147,7 +147,7 @@ h1 {
     opacity: .9;
   }
   100% {
-    height: 1.7m;
+    height: 1.7em;
     transform: rotateY(30deg);
   }
 }
@@ -244,7 +244,8 @@ h1 {
 }
 
 #candle-placeholder h1{
-  font-size: 2.5rem;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 2.3rem;
 }
 
 *{margin: 0;}
